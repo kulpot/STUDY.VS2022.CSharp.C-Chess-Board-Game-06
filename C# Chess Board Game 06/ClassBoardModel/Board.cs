@@ -79,6 +79,10 @@ namespace ClassBoardModel
                 default:
                     break;
             }
+            //--------START---------- C# Chess Board Game 06 place piece -------------------------------------------------------
+            theGrid[currentCell.RowNumber, currentCell.ColumnNumber].CurrentlyOccupied = true;
+            //---------END--------- C# Chess Board Game 06 place piece -------------------------------------------------------
+
         }
         //--------END---------- C# Chess Board 03 next legal moves -------------------------------------------------
 
