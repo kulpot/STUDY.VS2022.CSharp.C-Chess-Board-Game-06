@@ -72,7 +72,7 @@ namespace C__Chess_Board_02
         {
             // get x and y coordinates from the user. return a cell location from the grid.
             Console.WriteLine("Enter the current row number");
-
+            int currentRow = int.Parse(Console.ReadLine());     //Parsing for string to int
             Console.WriteLine("Enter the current column number");
         }
         //---------END--------- C# Chess Board Game 06 place piece -------------------------------------------------------
