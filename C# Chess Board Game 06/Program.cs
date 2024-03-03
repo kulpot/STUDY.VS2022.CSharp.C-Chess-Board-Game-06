@@ -67,6 +67,13 @@ namespace C__Chess_Board_02
 
         }
 
+        //--------START---------- C# Chess Board Game 06 place piece -------------------------------------------------------
+        private static Cell setCurrentCell()
+        {
+            throw new NotImplementedException();
+        }
+        //---------END--------- C# Chess Board Game 06 place piece -------------------------------------------------------
+
         //--------START---------- C# Chess Board 05 print board squares -----------------------------------------------
         private static void printBoard(Board myBoard)
         {
