@@ -56,7 +56,9 @@ namespace C__Chess_Board_02
 
 
             // print the chess board. Use an X for occupied square. Use a + for legal move. Use . for empty cell.
-
+            //--------START---------- C# Chess Board Game 06 place piece -------------------------------------------------------
+            printBoard(myBoard);
+            //---------END--------- C# Chess Board Game 06 place piece -------------------------------------------------------
 
             // wait for another enter key press before ending the program.
             //--------START---------- C# Chess Board 05 print board squares -----------------------------------------------
