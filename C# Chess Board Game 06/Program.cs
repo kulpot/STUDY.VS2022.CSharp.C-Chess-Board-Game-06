@@ -71,6 +71,9 @@ namespace C__Chess_Board_02
         private static Cell setCurrentCell()
         {
             // get x and y coordinates from the user. return a cell location from the grid.
+            Console.WriteLine("Enter the current row number");
+
+            Console.WriteLine("Enter the current column number");
         }
         //---------END--------- C# Chess Board Game 06 place piece -------------------------------------------------------
 
