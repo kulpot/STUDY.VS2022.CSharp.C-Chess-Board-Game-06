@@ -47,9 +47,9 @@ namespace C__Chess_Board_02
 
             // ask the user for an x and y coordinate where we will place a piece
             //--------START---------- C# Chess Board Game 06 place piece -------------------------------------------------------
-            Cell currentCell = setCurrentCell(){
+            Cell currentCell = setCurrentCell();
+            currentCell.CurrentlyOccupied = true;
 
-            }
             //---------END--------- C# Chess Board Game 06 place piece -------------------------------------------------------
 
             // calculate all legal moves for that piece
