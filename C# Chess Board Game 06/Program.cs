@@ -70,7 +70,7 @@ namespace C__Chess_Board_02
         //--------START---------- C# Chess Board Game 06 place piece -------------------------------------------------------
         private static Cell setCurrentCell()
         {
-            throw new NotImplementedException();
+            // get x and y coordinates from the user. return a cell location from the grid.
         }
         //---------END--------- C# Chess Board Game 06 place piece -------------------------------------------------------
 
