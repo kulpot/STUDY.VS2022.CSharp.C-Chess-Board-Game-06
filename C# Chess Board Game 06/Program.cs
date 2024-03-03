@@ -26,6 +26,8 @@ using System.Threading.Tasks;
 //-------------------- C# Chess Board Game 06 place piece -------------------------------------------------------
 //ref link:https://www.youtube.com/watch?v=qV1ib7dfXvk&list=PLhPyEFL5u-i0YDRW6FLMd1PavZp9RcYdF&index=6
 
+//
+
 namespace C__Chess_Board_02
 {
     class Program
@@ -44,7 +46,11 @@ namespace C__Chess_Board_02
             //--------END---------- C# Chess Board 05 print board squares -----------------------------------------------
 
             // ask the user for an x and y coordinate where we will place a piece
+            //--------START---------- C# Chess Board Game 06 place piece -------------------------------------------------------
+            Cell currentCell = setCurrentCell(){
 
+            }
+            //---------END--------- C# Chess Board Game 06 place piece -------------------------------------------------------
 
             // calculate all legal moves for that piece
 
