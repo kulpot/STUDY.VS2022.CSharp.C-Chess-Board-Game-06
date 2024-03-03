@@ -23,6 +23,9 @@ using System.Threading.Tasks;
 
 // PrintBoard method,
 
+//-------------------- C# Chess Board Game 06 place piece -------------------------------------------------------
+//ref link:https://www.youtube.com/watch?v=qV1ib7dfXvk&list=PLhPyEFL5u-i0YDRW6FLMd1PavZp9RcYdF&index=6
+
 namespace C__Chess_Board_02
 {
     class Program
