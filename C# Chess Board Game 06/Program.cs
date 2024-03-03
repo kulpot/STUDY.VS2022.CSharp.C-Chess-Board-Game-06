@@ -53,6 +53,9 @@ namespace C__Chess_Board_02
             //---------END--------- C# Chess Board Game 06 place piece -------------------------------------------------------
 
             // calculate all legal moves for that piece
+            //--------START---------- C# Chess Board Game 06 place piece -------------------------------------------------------
+            myBoard.MarkNextLegalMoves(currentCell, "Knight");
+            //---------END--------- C# Chess Board Game 06 place piece -------------------------------------------------------
 
 
             // print the chess board. Use an X for occupied square. Use a + for legal move. Use . for empty cell.
